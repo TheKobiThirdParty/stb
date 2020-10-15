@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>stb</name>
+  <version>2.3.7</version>
+  <description>
+     stb single-file public domain libraries for C/C++
+  </description>
+
+  <maintainer email="denis@thekobi.com">Denis Cavalli</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
